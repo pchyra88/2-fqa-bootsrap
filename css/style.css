@@ -1,0 +1,33 @@
+
+
+.main-header {
+    display: flex;
+	background-position: center;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.main-header h1 {
+	font-size: 2.2em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+	margin: 0;
+    color: #007bff;
+   
+}
+
+
+.card-body {
+    color: blue;
+}
+
+.btn {
+    color:red;
+}
+
+#accordion {
+    margin: 0;
+    padding: 20px;
+	text-align: center;
+}
